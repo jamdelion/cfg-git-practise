@@ -1,9 +1,30 @@
 /** @format */
 
 h1 {
+<<<<<<< HEAD
   color: red;
 }
 
 p {
   color: aqua;
 }
+=======
+    color: red;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: green;
+}
+
+h4 {
+    color: yellow;
+}
+
+h5 {
+    color: turquoise;
+}
+>>>>>>> 0a8842b8964fad0b0106fc7932ff8da4cd690461
